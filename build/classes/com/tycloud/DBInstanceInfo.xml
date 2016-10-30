@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBInstances>
+<DBInstance>
+<DBInstanceID>mysql</DBInstanceID>
+<DBInstanceName>mysql</DBInstanceName>
+<DBInstanceIP>127.0.0.1</DBInstanceIP>
+<DBInstancePORT>3306</DBInstancePORT>
+<DBInstanceDRV>com.mysql.jdbc.Driver</DBInstanceDRV>
+<DBInstanceURL>jdbc:mysql://127.0.0.1:3306/test</DBInstanceURL>
+<DBInstanceUSER>root</DBInstanceUSER>
+<DBInstancePWD>""</DBInstancePWD>
+</DBInstance>
+</DBInstances>
